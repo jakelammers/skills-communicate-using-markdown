@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Write 230 Essay
+- [ ] 471 Final
+- [ ] Turn in 421 Final
